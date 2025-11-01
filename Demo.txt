@@ -1,2 +1,4 @@
 SDLC-Software Development Life Cycle
 RAD - Rapid Application Development
+RUP - Rational Unified Process
+
