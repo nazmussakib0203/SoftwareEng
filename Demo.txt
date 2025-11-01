@@ -1,1 +1,2 @@
 SDLC-Software Development Life Cycle
+RAD - Rapid Application Development
